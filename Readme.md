@@ -18,12 +18,12 @@ This is a simple **Node.js + Express** backend project that uses **MySQL** and *
 
 ## 📁 Project Structure
 
-hospital-mysql-system/
-├── models/
-│ ├── index.js
-│ ├── Doctor.js
-│ ├── Patient.js
-│ └── Appointment.js
-├── index.js
-├── package.json
-└── README.md
+hospital-mysql-system/<br>
+├── models/<br>
+│ ├── index.js<br>
+│ ├── Doctor.js<br>
+│ ├── Patient.js<br>
+│ └── Appointment.js<br>
+├── index.js<br>
+├── package.json<br>
+└── README.md<br>
